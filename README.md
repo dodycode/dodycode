@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://hitx.vercel.app/counter/?id=https://github.com/dodycode/dodycode&t=github%20views)
+
 I'm currently mostly active on gitlab private repos
 
 
