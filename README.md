@@ -2,7 +2,7 @@
 
 ![](https://hitx.vercel.app/counter/?id=https://github.com/dodycode/dodycode&t=github%20views)
 
-I'm a Full Stack Developer with +3 years of experience in Web Development. Specialized in Laravel PHP Framework and VueJS. Focus on developer experience as well as user experience and web performance. Building things that people can enjoy or making their lives easier.
+I'm a Full Stack Developer with +3 years of experience in Web Development. Specialized in Laravel PHP Framework and VueJS.
 
 I'm currently mostly active on gitlab private repos.
 
