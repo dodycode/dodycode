@@ -6,7 +6,7 @@ Full Stack Developer with +3 years of experience in Web Development. Specialized
 
 Currently, Dody mostly active on gitlab private repos.
 
-You can find more about him here:
+You can find more about his work here:
 [My Personal Website](https://dodycode.vercel.app)
 
 Contact Me:
