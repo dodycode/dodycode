@@ -2,11 +2,11 @@
 
 ![](https://hitx.vercel.app/counter/?id=https://github.com/dodycode/dodycode&t=github%20views)
 
-I'm a Full Stack Developer with +3 years of experience in Web Development. Specialized in Laravel PHP Framework and VueJS.
+Full Stack Developer with +3 years of experience in Web Development. Specialized in Laravel PHP Framework and Skilled in Frontend Development too with some javascript frameworks like VueJS and React JS.
 
-I'm currently mostly active on gitlab private repos.
+Currently, Dody mostly active on gitlab private repos.
 
-You can find more about me here:
+You can find more about him here:
 [My Personal Website](https://dodycode.vercel.app)
 
 Contact Me:
