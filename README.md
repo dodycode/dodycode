@@ -7,8 +7,7 @@ Full Stack Developer with 4 years of experience working professionally in Web De
 You can find more about his work here:<br />
 [Dodycode.vercel.app](https://dodycode.vercel.app)
 
-Contact Me:
-
+You can reach him at here too:<br/>
 [Gitlab](https://gitlab.com/kirizu336) &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/dodycode/) &nbsp; &nbsp; [Facebook](https://facebook.com/prasdody) &nbsp; &nbsp; [Instagram](https://www.instagram.com/__dodypras/)
 
 <!-- <a href="https://github.com/dodycode?tab=repositories"><img alt="Dodycode Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodycode&theme=prussian&langs_count=6&layout=compact" /></a> -->
