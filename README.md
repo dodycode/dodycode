@@ -2,7 +2,7 @@
 
 ![](https://hitx.vercel.app/counter/?id=https://github.com/dodycode/dodycode&t=github%20views)
 
-Full Stack Developer with 4+ years of experience working professionally in Web Development. Specialized in Laravel PHP Framework as a Backend Framework, and experienced using Vue JS or React JS as a Frontend tools.
+Full Stack Developer with 5+ years of experience working professionally in Web Development.
 
 You can find more about his work here:<br />
 [Dodycode.vercel.app](https://dodycode.vercel.app)
