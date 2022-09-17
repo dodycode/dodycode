@@ -2,7 +2,7 @@
 
 ![](https://hitx.vercel.app/counter/?id=https://github.com/dodycode/dodycode&t=github%20views)
 
-Full Stack Developer with 5+ years of experience working professionally in Web Development, working with popular libraries and framework such as React JS, Vue JS, Next JS, Nuxt JS, Nest JS, and Laravel. Love typescript as well..
+Full Stack Web Developer with 5+ years of experience working professionally in Web Development, working with popular libraries and framework such as React JS, Vue JS, Next JS, Nuxt JS, Nest JS, Express and Laravel. Love typescript as well..
 
 You can find more about his work here:<br />
 [Dodycode.vercel.app](https://dodycode.vercel.app)
