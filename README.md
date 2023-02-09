@@ -2,7 +2,7 @@
 
 ![](https://hitx.vercel.app/counter/?id=https://github.com/dodycode/dodycode&t=github%20views)
 
-Web Developer based in Bali with more than 5 years experienced in web development and 3+ years working professionally. Mostly I'm working with popular libraries and framework such as React JS, Vue JS, Next JS, Nuxt JS, Nest JS, Express and Laravel. Love typescript as well..
+Web Developer based in Bali with more than 5 years in web development, 3+ years working professionally. Mostly I'm working with popular libraries and framework such as React JS, Vue JS, Next JS, Nuxt JS, Nest JS, Express and Laravel. Love typescript as well..
 
 You can find more about his work here:<br />
 [Dodycode.vercel.app](https://dodycode.vercel.app)
