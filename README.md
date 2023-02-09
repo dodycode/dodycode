@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
 ![](https://hitx.vercel.app/counter/?id=https://github.com/dodycode/dodycode&t=github%20views)
 
-Web Developer based in Bali with more than 5 years in web development, 3+ years working professionally. Mostly I'm working with popular libraries and framework such as React JS, Vue JS, Next JS, Nuxt JS, Nest JS, Express and Laravel. Love typescript as well..
+I'm a Web Developer based in Bali, I've been learning/coding a website more than 5 years since I was in school, and I've been working professionally for 3 years. Mostly I'm working with popular libraries and framework such as React JS, Vue JS, Next JS, Nuxt JS, Nest JS, Express and Laravel.
 
-You can find more about his work here:<br />
+You can find more about me:<br />
 [Dodycode.vercel.app](https://dodycode.vercel.app)
 
 You can reach him at here too:<br/>
