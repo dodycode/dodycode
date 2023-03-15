@@ -4,9 +4,6 @@
 
 I'm a Web Developer based in Bali, I've been coding a website for more than 5 years since I was in high school, and I've been working professionally for 3 years. Mostly I'm working with popular libraries and framework such as React JS, Vue JS, Next JS, Nuxt JS, Nest JS, Express and Laravel.
 
-You can find more about me:<br />
-[Dodycode.vercel.app](https://dodycode.vercel.app)
-
 Let's get connected!:<br/>
 [Gitlab](https://gitlab.com/kirizu336) &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/dodycode/) &nbsp; &nbsp; [Facebook](https://facebook.com/prasdody) &nbsp; &nbsp; [Instagram](https://www.instagram.com/__dodypras/)
 
