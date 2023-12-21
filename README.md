@@ -2,7 +2,7 @@
 
 ![](https://hitx.vercel.app/counter/?id=https://github.com/dodycode/dodycode&t=github%20views)
 
-Coding has been my hobby since childhood, have been working professionally for more than 3 years, some projects have been made. 
+Coding has been my hobby since childhood, and I've turned it into a profession with over three years of experience, working on several projects along the way. 
 
 Some are public you can check them out here.
 
