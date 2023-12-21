@@ -4,7 +4,7 @@
 
 Coding has been my hobby since childhood, and I've turned it into a profession with over three years of experience.
 
-I've been working on several projects, some are public you can check them out here.
+Some projects have been made, you can check them out here.
 
 Let's get connected anyway!:<br/>
 [Gitlab](https://gitlab.com/kirizu336) &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/dodycode/) &nbsp; &nbsp; [Facebook](https://facebook.com/prasdody) &nbsp; &nbsp; [Instagram](https://www.instagram.com/__dodypras/)
