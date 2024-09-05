@@ -23,6 +23,7 @@
 ## Currently Learning
 
 📚 I'm currently focusing on:
+- tRPC
 - GSAP (GreenSock Animation Platform)
 - Three.js
 
