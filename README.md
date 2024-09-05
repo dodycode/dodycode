@@ -24,8 +24,6 @@
 
 📚 I'm currently focusing on:
 - GSAP (GreenSock Animation Platform)
-- WordPress Elementor
-- Webflow
 - Three.js
 
 ## Let's Connect!
