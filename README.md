@@ -40,8 +40,4 @@ I'm always excited to collaborate and learn from fellow developers. Let's get in
 
 ---
 
-⚡ Fun fact: When I'm not immersed in code, you might find me hunting deviants in:<br><br>
-
-![Once Human Logo](https://cdn2.steamgriddb.com/logo_thumb/f8e5c311c5145d64a5fa7895caae64b7.png)
-
-It's my favorite way to unwind and enjoy some virtual adventure after a day of problem-solving!
+[![Dody's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodycode)](https://github.com/dodycode)
