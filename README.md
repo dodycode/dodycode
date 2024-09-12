@@ -20,6 +20,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodycode&langs_count=8&hide=html,jupyter_notebook&layout=compact)](https://github.com/dodycode)
+
 ## Currently Learning
 
 📚 I'm currently focusing on:
@@ -39,4 +41,4 @@ I'm always excited to collaborate and learn from fellow developers. Let's get in
 🌐 [Dodycode's Digital Space](https://dodycode.com) - Explore my personal website for more insights into my work, projects, and thoughts!
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodycode&layout=compact&langs_count=8)](https://github.com/dodycode)
+![Dodycode's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodycode\&rank_icon=github)
