@@ -39,5 +39,4 @@ I'm always excited to collaborate and learn from fellow developers. Let's get in
 🌐 [Dodycode's Digital Space](https://dodycode.com) - Explore my personal website for more insights into my work, projects, and thoughts!
 
 ---
-
-[![Dody's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodycode)](https://github.com/dodycode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendiriz&layout=compact&langs_count=8)](https://github.com/rendiriz)
