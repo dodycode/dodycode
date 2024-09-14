@@ -20,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodycode&hide=html,jupyter_notebook,blade,c++&layout=compact)](https://github.com/dodycode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodycode&hide=html,jupyter_notebook,blade&layout=compact)](https://github.com/dodycode)
 
 ## Currently Learning
 
