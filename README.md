@@ -1,7 +1,5 @@
 # Hello there, I'm Dody 👋
 
-![Profile Views](https://hitx.vercel.app/counter/?id=https://github.com/dodycode/dodycode&t=github%20views)
-
 ## About Me
 
 - 🚀 Passionate coder since childhood
