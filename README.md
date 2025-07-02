@@ -34,9 +34,5 @@ I'm always excited to collaborate and learn from fellow developers. Let's get in
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dodypras__)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dodycode/)
 
-## More About Me
-
-🌐 [Dodycode's Digital Space](https://dodycode.com) - Explore my personal website for more insights into my work, projects, and thoughts!
-
 ---
 ![Dodycode's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodycode\&rank_icon=github)
