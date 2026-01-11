@@ -3,7 +3,7 @@
 ## About Me
 
 - 🚀 Passionate coder since childhood
-- 💼 Professional developer with 4+ years of experience
+- 💼 Professional developer with more than 5 years of experience
 - 🌟 Turning ideas into reality through code
 
 ## Skills
